@@ -12,9 +12,9 @@ alojada remotamente. O sistema desenvolvido funciona com o pressuposto de exist�
 ## Instalação
 
 **Pré-Requisitos**:
-1. Windows (Mínimo) XP
-2. Framework .NET 4.5
-3. Ligação de rede ao ambiente Loyty API
+* Windows (Mínimo) XP
+* Framework .NET 4.5
+* Ligação de rede ao ambiente Loyty API
 
 Para utilizar o módulo de FrontOffice Loyty é necessário registar a DLL “loytyPOS.dll”.
 O registo é efectuado através do comando:
